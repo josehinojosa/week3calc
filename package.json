@@ -2,10 +2,10 @@
   "nameß": "week3",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts":{
+    "start":"node start index.js"
+  },
   "repository": "git@github.com:josehinojosa/week3calc.git",
   "author": "Joe <josehinojosa8@gmail.com>",
-  "license": "MIT",
-  "scripts":{
-    "start":"node start"
-  },
+    "license": "MIT"
 }
