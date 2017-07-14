@@ -6,5 +6,6 @@
   "author": "Joe <josehinojosa8@gmail.com>",
   "license": "MIT",
   "scripts":{
-  "start":"node start"
+    "start":"node start"
+  },
 }
