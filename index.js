@@ -83,3 +83,6 @@ for(var i = 0; i < keys.length; i++) {
 		e.preventDefault();
 	}
 }
+app.listen(process.env.PORT || 3000, function(req,res){
+	console.log('oi!');
+});
